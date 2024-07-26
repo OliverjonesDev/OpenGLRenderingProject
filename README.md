@@ -5,9 +5,9 @@ This scene uses custom GLSL shader code for texturing, lighting and point sprite
 User Instructions
 These are the following controls for the scene.
 Key Action
-Left Arrow Key Moves Slime -0.01 in the X
-Right Arrow Key Moves Slime +0.01 in the X
-Num 1 Changes Lighting mode to 1 (Blue = 0)
-Num 2 Changes Lighting mode to 2 (Blue = Mouse X)
-Num 3 Changes Lighting mode to 3 (Blue = Mouse Y)
-Key ’Q’ Acts as a toggle for static and non static lighting
+#Left Arrow Key Moves Slime -0.01 in the X
+#Right Arrow Key Moves Slime +0.01 in the X
+#Num 1 Changes Lighting mode to 1 (Blue = 0)
+#Num 2 Changes Lighting mode to 2 (Blue = Mouse X)
+#Num 3 Changes Lighting mode to 3 (Blue = Mouse Y)
+#Key ’Q’ Acts as a toggle for static and non static lighting
